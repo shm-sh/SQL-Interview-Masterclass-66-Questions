@@ -1,10 +1,10 @@
 # 🚀 9-Hour SQL Interview Masterclass: 66 Real Solutions
 
-[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Masterclass-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_VIDEO_LINK_HERE)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Masterclass-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=6X0DvM5kPhw)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![StrataScratch](https://img.shields.io/badge/StrataScratch-Practice_Platform-10b981?style=for-the-badge)](https://www.stratascratch.com/)
 
-A complete code companion repository for the **[9-Hour SQL Masterclass](YOUR_YOUTUBE_VIDEO_LINK_HERE)** on YouTube. 
+A complete code companion repository for the **[9-Hour SQL Masterclass](https://www.youtube.com/watch?v=6X0DvM5kPhw)** on YouTube. 
 
 This repository contains the optimized, production-grade **PostgreSQL** solutions for all **66 interview questions** covered in the course. Questions are sourced directly from real-world tech interviews (FAANG, Tier-1 Tech, and FinTech) via StrataScratch.
 
