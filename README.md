@@ -42,5 +42,5 @@ Performance optimization (Replacing heavy subqueries with clean CTEs)
 If this masterclass helped you clear an interview round or level up your syntax:
 
 ⭐ Star this repository (it helps other data job-seekers find it).
-📢 Subscribe on YouTube: https://www.youtube.com/@SentyModi
-💼 Connect with me on LinkedIn: https://www.linkedin.com/in/shauryamodi/
+📢 Subscribe on YouTube: [Insert your Channel Link] (https://www.youtube.com/@SentyModi)
+💼 Connect with me on LinkedIn: [Insert your LinkedIn Link] (https://www.linkedin.com/in/shauryamodi/)
