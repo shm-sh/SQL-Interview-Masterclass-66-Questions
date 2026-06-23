@@ -28,3 +28,19 @@ This repository contains the optimized, production-grade **PostgreSQL** solution
     ├── 02_question_name.sql
     ├── ...
     └── 66_question_name.sql
+
+💡 Core SQL Concepts Covered
+Throughout these 66 problems, we master the patterns interviewers actually look for:
+Advanced Aggregations (HAVING, conditional SUM(CASE WHEN...))
+Window Functions (ROW_NUMBER(), RANK(), DENSE_RANK(), LAG/LEAD)
+Date & Time manipulation (EXTRACT(), DATE_TRUNC, intervals)
+Text Wrangling (Regex, SUBSTRING(), string parsing)
+Complex Joins & Self-Joins (Handling fan-out traps)
+Performance optimization (Replacing heavy subqueries with clean CTEs)
+
+🤝 Connect & Support
+If this masterclass helped you clear an interview round or level up your syntax:
+
+⭐ Star this repository (it helps other data job-seekers find it).
+📢 Subscribe on YouTube: https://www.youtube.com/@SentyModi
+💼 Connect with me on LinkedIn: https://www.linkedin.com/in/shauryamodi/
